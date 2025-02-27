@@ -1,1 +1,7 @@
-# jlu-se-25w-express-system
+# jlu-se-25sp-express-system
+
+**此仓库用于2025春季学期jlu软件学院2班2组完成课程设计**
+
+###起始日期2025.2.27
+
+//
